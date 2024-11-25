@@ -1,4 +1,4 @@
-# Enfra - Terrahacks 2024 Winner 🏆
+# Enfra
 ### Video demo
 
   Here is a video demo of Enfra
